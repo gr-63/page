@@ -16,7 +16,7 @@ While you're optimizing for Google, a new search revolution is happening. AI eng
 
 Stop losing deals to competitors who understand the AI advantage. JeopardAI gives you the intelligence and tools to dominate AI search recommendations.
 
-**[Join the Waitlist](#waitlist)** • **Launching Q2 2025**
+**Join the Waitlist** • **Launching Q2 2025**
 
 ---
 
@@ -110,14 +110,6 @@ Every day you're not optimizing for AI search, you're losing:
 Transform from AI-invisible to AI-dominant. Get the competitive intelligence and optimization insights that turn AI engines into your most powerful customer acquisition channel.
 
 **Limited to 100 Early Access Users**
-
-<waitlist-form>
-**Email Address:** [Input field]
-**Company Name:** [Input field]  
-**Primary Challenge:** [Dropdown: Lost visibility in AI search / Competitors dominating recommendations / Need AI optimization strategy / Other]
-
-[**Join Waitlist - Launching Q2 2025**]
-</waitlist-form>
 
 ### What Early Access Includes:
 
