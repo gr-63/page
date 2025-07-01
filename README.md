@@ -1,5 +1,3 @@
-# JeopardAI: Win the AI Search Revolution
-
 ## Your Brand is Invisible Where Your Customers Are Searching
 
 **74% of professionals now use AI engines like ChatGPT, Claude, and Gemini for business research.** Are they finding you or your competitors?
